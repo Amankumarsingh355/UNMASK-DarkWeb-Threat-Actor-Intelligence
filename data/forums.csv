@@ -1,0 +1,7 @@
+forum_id,forum_name,forum_type,primary_language,first_seen,source_url,collected_at
+F001,BlackMarket Forum,market/forum,English,2025-01-12,http://source.example.invalid/forum/f001,2025-05-01T10:01:00Z
+F002,Exploit Exchange,cybercrime forum,English,2025-02-03,http://source.example.invalid/forum/f002,2025-05-01T10:02:00Z
+F003,Archive Board,discussion/forum,English,2025-01-25,http://source.example.invalid/forum/f003,2025-05-01T10:03:00Z
+F004,Privacy Corner,privacy/forum,English,2025-02-10,http://source.example.invalid/forum/f004,2025-05-01T10:04:00Z
+F005,Vendor Review Board,market/forum,English,2025-01-30,http://source.example.invalid/forum/f005,2025-05-01T10:05:00Z
+F006,Technical Bazaar,technical/forum,English,2025-02-14,http://source.example.invalid/forum/f006,2025-05-01T10:06:00Z

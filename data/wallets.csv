@@ -1,0 +1,10 @@
+wallet_id,wallet_address,chain,native_balance,observed_transaction_count,transaction_count_scope,first_seen_on_chain,last_seen_on_chain,enriched_at
+W001,0xdd31ffb1f533a2fabe0bb4223175bbd45c214a17,Ethereum,1842.5,42,provider_total_at_enrichment,2025-03-12T00:00:00Z,2025-04-20T00:00:00Z,2025-05-01T11:31:00Z
+W002,0xb4b3d2c42b6f00cdb0ba697de87ee56b5e1e5d88,Ethereum,921.75,31,provider_total_at_enrichment,2025-03-13T00:00:00Z,2025-04-21T00:00:00Z,2025-05-01T11:32:00Z
+W003,0xa5b641574ba521ba97b3c358b112e192386981a6,Ethereum,612.1,28,provider_total_at_enrichment,2025-03-14T00:00:00Z,2025-04-22T00:00:00Z,2025-05-01T11:33:00Z
+W004,0xee29196b43aae6ee7ca2065d0b88cd9060a8ebe7,Ethereum,301.44,17,provider_total_at_enrichment,2025-03-15T00:00:00Z,2025-04-23T00:00:00Z,2025-05-01T11:34:00Z
+W005,mq3aewGAnZBtVQKeftnSR8fLrSzUipUSYK,Bitcoin,0.842,23,provider_total_at_enrichment,2025-03-16T00:00:00Z,2025-04-24T00:00:00Z,2025-05-01T11:35:00Z
+W006,mjqzKBCMGYTj3oRnfEkGpZddjqKmTkgJCt,Bitcoin,1.271,19,provider_total_at_enrichment,2025-03-17T00:00:00Z,2025-04-25T00:00:00Z,2025-05-01T11:36:00Z
+W007,0x7c1f5e9c2a4d6b8e0f112233445566778899aabb,Ethereum,75.0,9,provider_total_at_enrichment,2025-03-18T00:00:00Z,2025-04-26T00:00:00Z,2025-05-01T11:37:00Z
+W008,0x91ab23cd45ef67890123456789abcdef01234567,Ethereum,44.0,7,provider_total_at_enrichment,2025-03-19T00:00:00Z,2025-04-27T00:00:00Z,2025-05-01T11:38:00Z
+W009,myeYfYtCUexQeMYAREjgRkAxXE5fbXFGwt,Bitcoin,0.155,6,provider_total_at_enrichment,2025-03-20T00:00:00Z,2025-04-28T00:00:00Z,2025-05-01T11:39:00Z
