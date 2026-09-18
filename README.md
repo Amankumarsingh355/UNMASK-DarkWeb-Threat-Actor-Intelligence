@@ -30,43 +30,43 @@ The platform transforms raw intelligence into:
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-### 🔍 Threat Actor Identification
+### Threat Actor Identification
 
 Identify potential threat actors from collected Dark Web intelligence and extracted indicators.
 
-### 🧩 Entity Resolution
+### Entity Resolution
 
 Connect aliases, usernames, wallets, organizations, and other indicators that may belong to the same entity.
 
-### 🕸️ Interactive Threat Graph
+### Interactive Threat Graph
 
 Visualize relationships between threat actors, aliases, wallets, groups, and indicators through an interactive graph.
 
-### 📊 Risk Scoring
+### Risk Scoring
 
 Generate risk scores based on observed indicators and relationships to help prioritize investigations.
 
-### 🚨 Threat Alerts
+### Threat Alerts
 
 Highlight potentially critical relationships and suspicious activity for further investigation.
 
-### 👤 Threat Actor Profiles
+### Threat Actor Profiles
 
 Explore an individual actor's aliases, connected entities, wallets, indicators, and associated activity.
 
-### 📈 Intelligence Dashboard
+### Intelligence Dashboard
 
 Provide analysts with a centralized view of threat intelligence and investigation insights.
 
-### 📁 Dataset Import
+### Dataset Import
 
 Support importing structured datasets for analysis and graph generation.
 
 ---
 
-## 🧠 How UNMASK Works
+## How UNMASK Works
 
 ```text
                  Dark Web / Threat Data
@@ -100,7 +100,7 @@ Support importing structured datasets for analysis and graph generation.
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 UNMASK follows a modular architecture where different components work together to transform raw intelligence into meaningful threat insights.
 
@@ -148,7 +148,7 @@ UNMASK follows a modular architecture where different components work together t
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 
@@ -182,7 +182,7 @@ UNMASK follows a modular architecture where different components work together t
 
 ---
 
-## 📊 Project Demonstration
+## Project Demonstration
 
 The current prototype demonstrates how threat intelligence can be transformed into an interactive investigation environment.
 
@@ -207,7 +207,7 @@ Example intelligence view:
 
 ---
 
-## 🔐 Responsible Use
+## Responsible Use
 
 UNMASK is intended for **cybersecurity research, threat intelligence, and defensive security analysis**.
 
@@ -217,7 +217,7 @@ It should not be used to target, harass, expose, or harm individuals.
 
 ---
 
-## 👥 Team — ROOTX
+## Team — ROOTX
 
 UNMASK is a collaborative project developed by **Team ROOTX**.
 
@@ -234,7 +234,7 @@ UNMASK is a collaborative project developed by **Team ROOTX**.
 
 ---
 
-## 📌 Project Information
+## Project Information
 
 **Project:** UNMASK — Dark Web Threat Actor Intelligence
 **Team:** ROOTX
@@ -244,7 +244,7 @@ UNMASK is a collaborative project developed by **Team ROOTX**.
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 
 We plan to extend UNMASK with:
 
@@ -261,7 +261,7 @@ We plan to extend UNMASK with:
 
 ---
 
-## ⚠️ Third-Party Resources
+## Third-Party Resources
 
 UNMASK may use third-party libraries, datasets, APIs, models, and other resources.
 
