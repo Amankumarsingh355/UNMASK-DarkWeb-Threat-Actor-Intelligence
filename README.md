@@ -1,5 +1,5 @@
 # UNMASK-DarkWeb-Threat-Actor-Intelligence
-AI-powered Dark Web Threa Intelligence platform for identifying, analyzing and mapping threat actors using entity resolution, graph analysis and risk scoring.
+AI-powered Dark Web Threat Intelligence platform for identifying, analyzing and mapping threat actors using entity resolution, graph analysis and risk scoring.
 UNMASK is an AI-powered Dark Web Threat Intelligence platform designed to help security analysts discover, connect, and understand threat actors across fragmented sources.
 
 Instead of looking at isolated usernames, wallets, posts, or indicators, UNMASK brings these signals together and represents their relationships through an interactive intelligence graph.
